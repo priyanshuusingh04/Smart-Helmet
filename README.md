@@ -97,15 +97,13 @@ Smart-Helmet/
 ## 📸 Demonstration  
 
 ### System Setup  
-![Uploading IMG20250429201157.jpg…]()
+![IMG20250429201157](https://github.com/user-attachments/assets/7b611e92-45b7-4d3a-a308-28382323b285)
 
-
+---
 ### Example SMS Alert  
-```plaintext
-ACCIDENT ALERT!  
-Location: http://maps.google.com/maps?q=28.7041,77.1025
-```
+![WhatsApp Image 2025-04-30 at 03 04 30_a71c756f](https://github.com/user-attachments/assets/d8e3ca84-3f3f-4a79-92be-397badb0c8f7)
 
+---
 ## 🔹 Author  
 👤 **Priyanshu Singh**  
 - 🎓 IIT Ropar | Mechanical Engineering  
