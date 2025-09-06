@@ -91,20 +91,14 @@ Smart-Helmet/
 ### 🔧 Requirements  
 - Arduino IDE installed  
 - GSM SIM card (2G supported)  
-- Clear GPS antenna access  
-
-### ▶️ Setup & Run  
-```bash
-# Clone repository
-git clone https://github.com/<username>/Smart-Helmet.git
-
-# Open Arduino IDE
-# Upload code from /code to Arduino UNO
-```
+- Clear GPS antenna access
+-  
+---
 ## 📸 Demonstration  
 
 ### System Setup  
-*(Insert images of helmet + circuit here)*  
+![Uploading IMG20250429201157.jpg…]()
+
 
 ### Example SMS Alert  
 ```plaintext
